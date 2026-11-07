@@ -1,6 +1,6 @@
 <p align="center">
   <a href="./Rishi_Dulhani_Cyber_City_Banner.png">
-    <img src="./Rishi_Dulhani_Cyber_City_Banner.gif" width="100%" alt="Rishi Dulhani — Python backend, applied machine learning, and wireless systems" />
+    <img src="./Rishi_Dulhani_Cyber_City_Banner.png" width="100%" alt="Rishi Dulhani — Python backend, applied machine learning, and wireless systems" />
   </a>
 </p>
 
