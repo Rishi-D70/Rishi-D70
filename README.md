@@ -1,18 +1,13 @@
 <p align="center">
-  <img src="./Rishi_Dulhani_Cyber_City_Banner.gif" width="100%" alt="Rishi Dulhani — cyber city engineering profile banner" />
-</p>
-
-<p align="center"><sub><a href="./Rishi_Dulhani_Cyber_City_Banner.png">View static high-resolution PNG version</a></sub></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=850&color=70F6F0&center=true&vCenter=true&width=1000&lines=PYTHON+BACKEND+%2F+DATABASES+%2F+SYSTEMS;LOCAL+DOCUMENT+INTELLIGENCE+%2F+APPLIED+ML;OFDM+%2F+CHANNEL+ESTIMATION+%2F+WIRELESS;GNSS+%2F+IMU+FUSION+%2F+EMBEDDED+SECURITY" alt="Engineering focus areas" />
+  <a href="./Rishi_Dulhani_Cyber_City_Banner.png">
+    <img src="./Rishi_Dulhani_Cyber_City_Banner.gif" width="100%" alt="Rishi Dulhani — Python backend, applied machine learning, and wireless systems" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rishi-dulhani-397987360/"><img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=70F6F0" alt="LinkedIn" /></a>
-  <a href="mailto:rishidulhani7070@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=FF69C8" alt="Email" /></a>
-  <a href="tel:+919096780763"><img src="https://img.shields.io/badge/CALL-111827?style=for-the-badge" alt="Call +91 90967 80763" /></a>
-  <a href="https://github.com/Rishi-D70"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/rishi-dulhani-397987360/"><img src="https://img.shields.io/badge/LINKEDIN-171017?style=for-the-badge&logo=linkedin&logoColor=FF4655" alt="LinkedIn" /></a>
+  <a href="mailto:rishidulhani7070@gmail.com"><img src="https://img.shields.io/badge/EMAIL-171017?style=for-the-badge&logo=gmail&logoColor=FF4655" alt="Email" /></a>
+  <a href="tel:+919096780763"><img src="https://img.shields.io/badge/CALL-171017?style=for-the-badge&logo=phone&logoColor=FF4655" alt="Call +91 90967 80763" /></a>
 </p>
 
 <p align="center">
