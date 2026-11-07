@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./assets/cyber-city-banner.svg" width="100%" alt="Rishi Dulhani — cyber city engineering profile banner" />
+  <img src="./assets/rishi-cyber-city-banner.gif" width="100%" alt="Rishi Dulhani — cyber city engineering profile banner" />
 </p>
+
+<p align="center"><sub><a href="./assets/rishi-cyber-city-banner.png">View static high-resolution PNG version</a></sub></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=850&color=70F6F0&center=true&vCenter=true&width=1000&lines=PYTHON+BACKEND+%2F+DATABASES+%2F+SYSTEMS;LOCAL+DOCUMENT+INTELLIGENCE+%2F+APPLIED+ML;OFDM+%2F+CHANNEL+ESTIMATION+%2F+WIRELESS;GNSS+%2F+IMU+FUSION+%2F+EMBEDDED+SECURITY" alt="Engineering focus areas" />
