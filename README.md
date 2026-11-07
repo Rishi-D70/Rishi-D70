@@ -99,8 +99,8 @@ Manuscript in progress, aimed at Elsevier's *Physical Communication*.
 ## 🎤 Off the keyboard
 
 - **Documentation Head** at the DYPSEM E-Cell, under E-Cell IIT Bombay
-- **Model UN** delegate and chairperson. I've argued for Russia in DISEC and for Finland at UNODC
-- Two-time paper presentation winner
+- **Model UN** delegate and chairperson. I've argued for Russia in DISEC stating that russia did nothing wrong!
+- 7+ National level paper presentation winner
 - I collect vocabulary words, and I'm slowly dying my way through Elden Ring
 
 ---
@@ -110,8 +110,8 @@ Manuscript in progress, aimed at Elsevier's *Physical Communication*.
 I'm looking for internships from January 2027 and fresher roles across Python, ML and data, and embedded or electronics. If you have a problem with a signal you can't trust, I'd like to hear about it.
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Send%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/rishi-dulhani-397987360/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rishidulhani7070@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a506b,100:0b132b&height=110&section=footer" width="100%" alt="footer"/>
