@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/rishi-cyber-city-banner.gif" width="100%" alt="Rishi Dulhani — cyber city engineering profile banner" />
+  <img src="./Rishi_Dulhani_Cyber_City_Banner.gif" width="100%" alt="Rishi Dulhani — cyber city engineering profile banner" />
 </p>
 
-<p align="center"><sub><a href="./assets/rishi-cyber-city-banner.png">View static high-resolution PNG version</a></sub></p>
+<p align="center"><sub><a href="./Rishi_Dulhani_Cyber_City_Banner.png">View static high-resolution PNG version</a></sub></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=850&color=70F6F0&center=true&vCenter=true&width=1000&lines=PYTHON+BACKEND+%2F+DATABASES+%2F+SYSTEMS;LOCAL+DOCUMENT+INTELLIGENCE+%2F+APPLIED+ML;OFDM+%2F+CHANNEL+ESTIMATION+%2F+WIRELESS;GNSS+%2F+IMU+FUSION+%2F+EMBEDDED+SECURITY" alt="Engineering focus areas" />
@@ -298,3 +298,4 @@ Open to **2027 graduate opportunities and internships** in Python backend develo
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:070B18,50:15243A,100:341A45&height=4&section=footer" width="100%" alt="Neon footer divider" />
 </p>
+
